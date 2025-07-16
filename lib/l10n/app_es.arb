@@ -1,0 +1,46 @@
+{
+  "@@locale": "es",
+
+  "helloUser": "Hola, {user} 👋",
+  "@helloUser": {
+    "description": "Mensaje de saludo al usuario",
+    "placeholders": {
+      "user": {}
+    }
+  },
+
+  "register_equipment": "Registrar nuevo equipo",
+  "view_equipment": "Ver equipos registrados",
+  "dark_mode": "Modo oscuro",
+
+  "email_label": "Correo electrónico",
+  "password_label": "Contraseña",
+  "login_button": "Iniciar sesión",
+  "login_error": "Correo o contraseña inválidos",
+
+  "equipment_name": "Nombre del equipo",
+  "equipment_description": "Descripción",
+  "save_equipment": "Guardar equipo",
+  "equipment_saved": "Equipo guardado exitosamente",
+  "equipment_error": "Ocurrió un error al guardar el equipo",
+
+  "home_title": "Inicio",
+  "@home_title": {
+    "description": "Título de la pantalla principal"
+  },
+
+  "logout": "Cerrar sesión",
+  "@logout": {
+    "description": "Botón para cerrar sesión"
+  },
+
+  "logout_confirm": "¿Estás seguro de que deseas cerrar sesión?",
+  "@logout_confirm": {
+    "description": "Mensaje de confirmación al cerrar sesión"
+  },
+
+  "cancel": "Cancelar",
+  "@cancel": {
+    "description": "Texto para botón de cancelar"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "@@locale": "en",
+
+  "helloUser": "Hello, {user} 👋",
+  "@helloUser": {
+    "description": "Greeting message to the user",
+    "placeholders": {
+      "user": {}
+    }
+  },
+
+  "register_equipment": "Register equipment",
+  "view_equipment": "View registered equipment",
+  "dark_mode": "Dark mode",
+
+  "email_label": "Email",
+  "password_label": "Password",
+  "login_button": "Log In",
+  "login_error": "Invalid email or password",
+
+  "equipment_name": "Equipment name",
+  "equipment_description": "Description",
+  "save_equipment": "Save equipment",
+  "equipment_saved": "Equipment saved successfully",
+  "equipment_error": "An error occurred while saving the equipment",
+
+  "home_title": "Home",
+  "@home_title": {
+    "description": "Title of the home screen"
+  },
+
+  "logout": "Log out",
+  "@logout": {
+    "description": "Logout button label"
+  },
+
+  "logout_confirm": "Are you sure you want to log out?",
+  "@logout_confirm": {
+    "description": "Logout confirmation message"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Text for cancel button"
+  }
+}

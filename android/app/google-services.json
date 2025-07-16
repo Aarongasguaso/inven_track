@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143676257857",
+    "project_id": "iventrack",
+    "storage_bucket": "iventrack.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143676257857:android:3272133e7eb827fc3df8c0",
+        "android_client_info": {
+          "package_name": "com.AaronDelgado.inven_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7JHU-rPfx3tSH2dLme4dsBjMZ-IPhsAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143676257857:android:de8a60e3d75eb61e3df8c0",
+        "android_client_info": {
+          "package_name": "com.example.inven_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7JHU-rPfx3tSH2dLme4dsBjMZ-IPhsAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

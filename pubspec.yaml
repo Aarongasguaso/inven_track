@@ -1,0 +1,48 @@
+name: inven_track
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # Firebase & Firestore
+  firebase_core: ^3.15.1
+  firebase_auth: ^5.6.2
+  cloud_firestore: ^5.6.11
+  firebase_messaging: ^15.2.9
+
+  # UI y manejo de estado
+  provider: ^6.1.0
+  flutter_local_notifications: ^17.1.0
+  intl: ^0.20.2
+
+  # SQLite
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.0+2 # ✅ Añadido para escritorio (Windows/Linux)
+  path_provider: ^2.0.0
+
+  # Otros
+  connectivity_plus: ^5.0.0
+  flutter_secure_storage: ^9.0.0
+  http: ^1.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon.png"
